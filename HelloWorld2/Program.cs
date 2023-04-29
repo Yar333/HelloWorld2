@@ -10,9 +10,14 @@ namespace HelloWorld2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello ");
+            Console.WriteLine("World ");
+            Console.WriteLine("!!!");
+
             Console.Write("Hello ");
             Console.Write("World ");
             Console.Write("!!!");
+
             Console.ReadKey();
         }
     }
